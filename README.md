@@ -1,2 +1,2 @@
 # VCTest
-Test repository for lecture VCS
+Test repository for a lecture VCS
